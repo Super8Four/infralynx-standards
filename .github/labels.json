@@ -1,0 +1,21 @@
+[
+  { "name": "type:feature", "color": "1d76db", "description": "New feature or capability" },
+  { "name": "type:bug", "color": "d73a4a", "description": "Defect or regression" },
+  { "name": "type:task", "color": "0e8a16", "description": "Bounded delivery task" },
+  { "name": "type:refactor", "color": "5319e7", "description": "Internal restructuring without functional scope" },
+  { "name": "type:security", "color": "b60205", "description": "Security-related work item" },
+  { "name": "type:docs", "color": "0052cc", "description": "Documentation-related work item" },
+  { "name": "domain:core", "color": "c2e0c6", "description": "Core platform domain" },
+  { "name": "domain:dcim", "color": "bfd4f2", "description": "DCIM domain" },
+  { "name": "domain:ipam", "color": "f9d0c4", "description": "IPAM domain" },
+  { "name": "domain:networking", "color": "d4c5f9", "description": "Networking domain" },
+  { "name": "domain:virtualization", "color": "fef2c0", "description": "Virtualization domain" },
+  { "name": "domain:ui", "color": "fbca04", "description": "User interface work" },
+  { "name": "domain:api", "color": "006b75", "description": "API design or implementation" },
+  { "name": "domain:db", "color": "5319e7", "description": "Database compatibility or persistence work" },
+  { "name": "domain:ci-cd", "color": "0b4f6c", "description": "CI/CD and automation work" },
+  { "name": "priority:p0", "color": "b60205", "description": "Critical priority" },
+  { "name": "priority:p1", "color": "d93f0b", "description": "High priority" },
+  { "name": "priority:p2", "color": "fbca04", "description": "Medium priority" },
+  { "name": "priority:p3", "color": "0e8a16", "description": "Lower priority" }
+]
