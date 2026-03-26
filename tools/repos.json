@@ -1,0 +1,21 @@
+{
+  "owner": "Super8Four",
+  "repositories": [
+    "infralynx-platform",
+    "infralynx-docs",
+    "infralynx-infra",
+    "infralynx-standards",
+    "infralynx-design"
+  ],
+  "milestones": [
+    "M0 Program Foundation",
+    "M1 GitHub Operating System",
+    "M2 Documentation Foundation",
+    "M3 Platform Skeleton",
+    "M4 CI Validation Baseline",
+    "M5 Core Platform Architecture",
+    "M6 Domain Foundations",
+    "M7 Infrastructure Foundation",
+    "M8 Design Foundation"
+  ]
+}
